@@ -28,7 +28,7 @@ body {
 
 /*Clearer boarders*/
 .list td, .list th {
-    border-bottom: 3px solid #8d8d8d6b;
+    border-bottom: 1px solid #8d8d8d6b;
 }
 
 
