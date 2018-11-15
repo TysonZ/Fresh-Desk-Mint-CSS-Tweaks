@@ -1,0 +1,38 @@
+.pr-12 {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.responsive {
+    max-width: 110em;
+    margin: auto;
+}
+body {
+    color: #000000;
+    font-size: 14px;
+    background-color: #474747;
+}
+
+.list td{
+    padding: 0px 0;
+}
+
+.ticket-list-table-view .lt-cell {
+    padding-left: 2px; 
+}
+
+.list td, .list th {
+    border-bottom: 3px solid #8d8d8d6b;
+}
+
+.pagearea, .conversation_thread, .content .controls .control-left{
+    background-color: #ddd;
+}
+
+#inner{
+    background-color: #ddd;
+}
+
+#inner .leftcontent{
+    padding-bottom: 0px;
+}
