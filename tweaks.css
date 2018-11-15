@@ -1,3 +1,4 @@
+/*Makes the text actually visible*/
 .pr-12 {
     font-weight: 400;
     font-size: 14px;
@@ -7,32 +8,42 @@
     max-width: 110em;
     margin: auto;
 }
+
+/*Color themes*/
 body {
     color: #000000;
     font-size: 14px;
     background-color: #474747;
 }
 
+/*Removes unnecessary white space in ticket list*/
 .list td{
     padding: 0px 0;
 }
 
+/*Helps alignment*/
 .ticket-list-table-view .lt-cell {
-    padding-left: 2px; 
+    padding-left: 2px;
 }
 
+/*Clearer boarders*/
 .list td, .list th {
     border-bottom: 3px solid #8d8d8d6b;
 }
 
+
+/*For the solutions page*/
+
+/*Darkens background*/
 .pagearea, .conversation_thread, .content .controls .control-left{
     background-color: #ddd;
+}
+/*Removes whitespace*/
+#inner .leftcontent{
+    border-right: 0px;
+    padding-bottom: 0px;
 }
 
 #inner{
     background-color: #ddd;
-}
-
-#inner .leftcontent{
-    padding-bottom: 0px;
 }
