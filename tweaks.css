@@ -26,7 +26,7 @@ body {
     padding-left: 2px;
 }
 
-/*Clearer boarders*/
+/*Clearer borders*/
 .list td, .list th {
     border-bottom: 1px solid #8d8d8d6b;
 }
