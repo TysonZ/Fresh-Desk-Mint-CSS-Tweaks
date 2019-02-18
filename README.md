@@ -1,4 +1,4 @@
-# FreshDeskMintCSSTweaks
+# Fresh Desk Mint CSS Tweaks
 CSS tweaks to make FreshDesk MINT more usable  
 https://freshdesk.com/
 
